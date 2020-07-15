@@ -2,6 +2,8 @@
 
 """ CUSTOM TYPES """
 # Constants describing custom types
+from mininet.node import UserAP, Car
+
 class Type():
     """Constants describing custom types"""
     SD_CAR = "sd_car"
